@@ -1,0 +1,48 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "name": "Mohamed Afrah",
+      "email": "afrahsport@gmail.com",
+      "contact_number": "7373737",
+      "club_name": "New Radius Club",
+      "position": "President",
+      "sport": "Football",
+      "website": "wwww.newradius.com",
+      "island_city": "Male' City",
+      "address": "M. Kulheyge, Ameenee Magu",
+      "purpose_built_facility": true,
+      "facility_address": "",
+      "accessible_facility": true,
+      "facility_available": true,
+      "provide_coaching": true,
+      "no_of_coaches": 3,
+      "coach_qualifications": "",
+      "participation_level": [
+        "Social/Recreation",
+        "Competitive (Local League)"
+      ],
+      "training_days": "Sunday, Tuesday, Saturday",
+      "monthly_membership_cost": "1000.00"
+    }
+  ],
+  "tournaments": [
+    {
+      "id": 1,
+      "name": "Mohamed Afrah",
+      "email": "afrahsport@gmail.com",
+      "contact_number": "7373737",
+      "company_name": "New Radius Club",
+      "position": "President",
+      "sport": "Football",
+      "website": "wwww.newradius.com",
+      "tournament_title": "Tournament Name",
+      "address": "M. Kulheyge, Ameenee Magu",
+      "start_date": "",
+      "end_date": "",
+      "purpose": "",
+      "tournament_venue": "Tournament Location",
+      "target_gender": "Male"
+    }
+  ]
+}
